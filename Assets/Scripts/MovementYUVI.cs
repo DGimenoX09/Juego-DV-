@@ -49,23 +49,23 @@ public class MovementYUVI : MonoBehaviour
         {
             
                 rBody.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-                anim.SetBool("IsJumping", true);
+                anim.SetBool("Saltando", true);
                 source.PlayOneShot(jumpsound);
         }
 
         if (inputhorizontal < 0)
         {
             render.flipX = true;
-            anim.SetBool("IsRunning", true);
+            anim.SetBool("Corriendo", true);
         }
         else if(inputhorizontal > 0)
         {
             render.flipX = false;
-            anim.SetBool("IsRunning", true);
+            anim.SetBool("Corriendo", true);
         }
         else
         {
-             anim.SetBool("IsRunning", false);
+             anim.SetBool("Corriendo", false);
         }
     }
 
