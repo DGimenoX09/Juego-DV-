@@ -10,9 +10,11 @@ public class FondoMovimiento : MonoBehaviour
 
  private Material material; 
 
+
  private void Awake()
  {
 	 material = GetComponent<SpriteRenderer>().material;
+	 
  }
 
 
