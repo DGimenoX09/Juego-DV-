@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +108,427 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Ojo boss_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 16
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7156e8e4d6a7c0942b734782d581736b
+      internalID: -838852143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 7
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9057a7fdfc60754a80656a438b224ff
+      internalID: 752324723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 8
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c30a7eb4e88f0544806ae2c8e836922
+      internalID: 1381478243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2
+        width: 81
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3986573a9381f8c4384ccfc6df5bab27
+      internalID: 588861452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_4
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 72
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37c277715ad4864db669d49bcbad2f6
+      internalID: -1086886438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 68
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b7fa5612d6b7441a85e03c9bbb006b
+      internalID: 1297639576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 74
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed24c22cdd7aa947bb8097f2f3adf7e
+      internalID: 681359664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 84
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6ceabbfb97b774295bc15441ace367
+      internalID: 51517692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 149
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd042dc349529534f945365f6273e4e2
+      internalID: 1075218806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 156
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5310b7d0fa6471d4f9b22ef6d873c8ab
+      internalID: 261520840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_10
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 149
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b11dbf0e4cde4a429100c1d5f930a35
+      internalID: -585592855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 150
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058d70efe99fb95458233ff737103075
+      internalID: -532094492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 288
+        width: 68
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd6cc71dac970a46b0fc0d068933e70
+      internalID: -374404126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 285
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a267d623dcad794bb782a64c79c3bc1
+      internalID: 1150108928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 284
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7feb08891c276d46adace8374499be0
+      internalID: -706152141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 287
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e08535b8b343824bb8088f67e9c66ae
+      internalID: -1925979259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_16
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 220
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc51e9935babc94984b329fd2389151
+      internalID: -275190381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 215
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9629b46a7b0ffa468cc4761cd2dfbd9
+      internalID: 1064439402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 216
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bda2f35b30cf04486e6e4aa5dae010
+      internalID: -1601580172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ojo boss_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 220
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c6f1815f3dc924d933dd10c57a3e84
+      internalID: -1292082303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +539,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ojo boss_0: -610785309
+      Ojo boss_1: -838852143
+      Ojo boss_10: 51517692
+      Ojo boss_11: 1974053396
+      Ojo boss_12: 1075218806
+      Ojo boss_13: 261520840
+      Ojo boss_14: -585592855
+      Ojo boss_15: -532094492
+      Ojo boss_16: -374404126
+      Ojo boss_17: 1150108928
+      Ojo boss_18: -706152141
+      Ojo boss_19: -1925979259
+      Ojo boss_2: 752324723
+      Ojo boss_3: 1381478243
+      Ojo boss_4: 588861452
+      Ojo boss_5: 225506798
+      Ojo boss_6: 684012698
+      Ojo boss_7: -1086886438
+      Ojo boss_8: 1297639576
+      Ojo boss_9: 681359664
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
